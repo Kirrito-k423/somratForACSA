@@ -139,11 +139,6 @@ pre = "#"
 url = "portfolio"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "News2"
-pre = "#"
-url = "news"
-weight = 4.5
 
 [[Languages.en.menu.main]]
 name = "Testimonial"
