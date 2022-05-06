@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "News 2"
 description: "This is meta description."
 draft: false
 
