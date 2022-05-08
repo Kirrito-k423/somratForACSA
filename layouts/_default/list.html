@@ -6,6 +6,7 @@
 <section class="portfolio {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}}>
   <div class="container">
     <h1 class="wow fadeInUp text-center mb-5" data-wow-duration="1.5s">{{ .Title }}</h1>
+    <div class="eventNewline wow">Explore opportunities to engage with people, ideas, art, and education across campus.</div>
     <div class="row wow fadeInUp" data-wow-duration="1.5s">
       {{ $paginator:= .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}

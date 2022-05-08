@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "http://snode0.swangeese.fun/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
@@ -64,8 +64,8 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 [params]
 favicon = "images/favicon.png"
 logo_light = "images/school-icon.png"
-logo_dark = "images/logo-dark.png"
-logo_width = "150px"
+logo_dark = "images/logo-corp-green.png"
+logo_width = "110px"
 # Meta data
 description = "This is meta description"
 author = "somrat"

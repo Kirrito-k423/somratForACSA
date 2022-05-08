@@ -1,6 +1,6 @@
 ---
-title : "NEED A SERVICE?"
-bg_image : "images/backgrounds/need-service.jpg"
+title : "Opportunities and Challenges"
+bg_image : "http://www.asc-events.net/ASC20-21/img/banner/l1.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
