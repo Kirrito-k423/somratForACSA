@@ -322,9 +322,9 @@ body {
 }
 
 .head-holder .hireMe:hover {
-  background: #6f6f6f;
+  background: #000;
   color: #fff;
-  border: 2px solid #6f6f6f;
+  border: 2px solid #000;
 }
 
 input+label {
@@ -358,7 +358,7 @@ input+label span {
 }
 
 .navigation-icon:hover .burger-menu span {
-  background: #6f6f6f;
+  background: #000;
 }
 
 input+label span:first-child {
@@ -376,7 +376,7 @@ label:hover {
 input:checked+label span {
   opacity: 0;
   top: 50%;
-  background: #6f6f6f;
+  background: #000;
 }
 
 input:checked+label span:first-child {
@@ -665,7 +665,7 @@ input:checked+label span:last-child {
 }
 
 .desktop-menu .hvr-underline-from-left.dark:before {
-  background: #6f6f6f;
+  background: #000;
 }
 
 .desktop-menu {
@@ -692,7 +692,7 @@ input:checked+label span:last-child {
 }
 
 .menu-item-transparent.menu-item a {
-  color: #6f6f6f;
+  color: #000;
 }
 
 /* ========= Mobile Menu ======= */
@@ -757,7 +757,7 @@ input:checked+label span:last-child {
 .mobile-menu-icons .fa:hover {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
-  color: #6f6f6f;
+  color: #000;
 }
 
 .mobile-menu-nav {
@@ -773,7 +773,7 @@ input:checked+label span:last-child {
   display: block;
   width: 100%;
   height: 4px;
-  background: #6f6f6f;
+  background: #000;
   position: relative;
   top: 4px;
   -webkit-transition: .5s;
@@ -851,7 +851,7 @@ input:checked+label span:last-child {
 
 .about-me-text h1 {
   position: relative;
-  color: #6f6f6f;
+  color: #000;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -863,11 +863,11 @@ input:checked+label span:last-child {
   top: -8px;
   width: 47px;
   height: 5px;
-  background: #6f6f6f;
+  background: #000;
 }
 
 .about-me-text p {
-  color: #6f6f6f;
+  color: #000;
   font-size: 16px;
 }
 
@@ -928,7 +928,7 @@ input:checked+label span:last-child {
 
 .experience h3,
 .skill h3 {
-  color: #6f6f6f;
+  color: #000;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -941,7 +941,7 @@ input:checked+label span:last-child {
 
 ul.experience-chart li {
   padding-left: 30px;
-  border-left: 2px solid #6f6f6f;
+  border-left: 2px solid #000;
   padding-bottom: 10px;
   position: relative;
 }
@@ -979,11 +979,11 @@ ul.experience-chart h4 {
 
 .experience-chart li span {
   font-weight: 700;
-  color: #6f6f6f;
+  color: #000;
 }
 
 .experience-chart li p {
-  color: #6f6f6f;
+  color: #000;
 }
 
 .single-experience {
@@ -1008,7 +1008,7 @@ ul.experience-chart h4 {
   align-items: center;
   width: 100%;
   background: #fff;
-  border: 2px solid #6f6f6f;
+  border: 2px solid #000;
   height: 18px;
   border-radius: 22px;
   -moz-border-radius: 22px;
@@ -1076,7 +1076,7 @@ ul.experience-chart h4 {
 }
 
 .services-heading h1 {
-  color: #6f6f6f;
+  color: #000;
   text-align: center;
   font-weight: 700;
   letter-spacing: 4px;
@@ -1093,7 +1093,7 @@ ul.experience-chart h4 {
   margin: auto;
   width: 70px;
   height: 5px;
-  background: #6f6f6f;
+  background: #000;
 }
 
 .services-icon {
@@ -1199,7 +1199,7 @@ ul.experience-chart h4 {
 }
 
 .portfolio h1 {
-  color: #6f6f6f;
+  color: #000;
   text-align: center;
   font-weight: 700;
   letter-spacing: 4px;
@@ -1209,7 +1209,7 @@ ul.experience-chart h4 {
 .portfolio h1:before {
   content: "";
   height: 5px;
-  background: #6f6f6f;
+  background: #000;
   position: absolute;
   top: -15px;
   left: 46.5%;
@@ -1256,8 +1256,8 @@ ul.experience-chart h4 {
 .portfolio-navigation label {
   cursor: pointer;
   padding: 7px 14px;
-  border: 1.5px solid #6f6f6f;
-  color: #6f6f6f;
+  border: 1.5px solid #000;
+  color: #000;
   font-weight: 700;
   margin: 0 5px;
   border-radius: 0 !important;
@@ -1265,7 +1265,7 @@ ul.experience-chart h4 {
 }
 
 .portfolio-navigation label:hover {
-  border-color: #6f6f6f;
+  border-color: #000;
   color: #fff;
   background-color: transparent !important;
 }
@@ -1287,15 +1287,15 @@ ul.experience-chart h4 {
 .btn-primary:not(:disabled):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #6f6f6f !important;
-  border-color: #6f6f6f !important;
+  background-color: #000 !important;
+  border-color: #000 !important;
 }
 .portfolio .hvr-sweep-to-right.active:before {
   background: #212121;
 }
 
 .portfolio .hvr-sweep-to-right:before {
-  background: #6f6f6f;
+  background: #000;
 }
 
 .portfolio .hvr-sweep-to-right.active:before {
@@ -1356,7 +1356,7 @@ ul.experience-chart h4 {
   position: absolute;
   bottom: 16px;
   left: 17px;
-  background: #6f6f6f;
+  background: #000;
   padding: 5px 10px;
 }
 
@@ -1385,20 +1385,20 @@ ul.experience-chart h4 {
   background: transparent;
   margin-top: 25px;
   text-decoration: none;
-  color: #6f6f6f;
+  color: #000;
   font-family: 'Rubik', sans-serif;
   font-size: 17px;
   font-weight: 500;
-  border: 2px solid #6f6f6f;
+  border: 2px solid #000;
   padding: 5px 18px;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 .loadmore:hover {
-  background: #6f6f6f;
+  background: #000;
   color: #fff;
-  border: 2px solid #6f6f6f;
+  border: 2px solid #000;
   text-decoration: none;
 }
 
@@ -1424,7 +1424,7 @@ ul.experience-chart h4 {
 .testimonials-container h1 {
   position: relative;
   text-align: center;
-  color: #6f6f6f;
+  color: #000;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -1438,7 +1438,7 @@ ul.experience-chart h4 {
   margin: auto;
   width: 80px;
   height: 5px;
-  background: #6f6f6f;
+  background: #000;
 }
 
 .single-testimonial {
@@ -1470,12 +1470,12 @@ ul.experience-chart h4 {
   text-align: center;
   font-size: 13px;
   font-weight: 700;
-  color: #6f6f6f;
+  color: #000;
   margin-bottom: 15px;
 }
 
 .single-testimonial p {
-  color: #6f6f6f;
+  color: #000;
   font-weight: 500;
   font-size: 17px;
   width: 60%;
@@ -1493,12 +1493,12 @@ ul.experience-chart h4 {
 
 .owl-theme .owl-dots .owl-dot span {
   background: #fff;
-  border: 2px solid #6f6f6f;
+  border: 2px solid #000;
 }
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #6f6f6f;
+  background: #000;
 }
 
 .owl-theme .owl-nav.disabled+.owl-dots {
@@ -1536,7 +1536,7 @@ ul.experience-chart h4 {
   text-align: center;
   font-size: 14px;
   margin-top: -10px;
-  color: #6f6f6f;
+  color: #000;
   font-weight: 700;
 }
 
@@ -2302,11 +2302,11 @@ textarea.form-control::-webkit-input-placeholder,
 }
 
 .card-title{
-  color: #6f6f6f;
+  color: #000;
 }
 
 .card-title:hover{
-  color: #6f6f6f;
+  color: #000;
 }
 
 .card-img-wrapper{
@@ -2369,7 +2369,7 @@ textarea.form-control::-webkit-input-placeholder,
   font-size: 18px;
   padding: 4px 0;
   display: block;
-  color: #6f6f6f;
+  color: #000;
 }
 
 .widget-img{
