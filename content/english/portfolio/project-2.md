@@ -1,15 +1,15 @@
 ---
-title: "Project Title"
+title: "SC16"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item2.jpg"
-categories: ["design","development"]
+image: "images/competition/sc16.jpg"
+categories: ["SC16","logo"]
 description: "This is meta description."
 draft: false
 project_info:
 - name: "Client"
   icon: "fas fa-user"
   content: "John Doe"
-- name: "Project Link"
+- name: "SC 16"
   icon: "fas fa-link"
   content: "https://examplesite.com/"
 - name: "New Item"
@@ -19,7 +19,6 @@ project_info:
   icon: "fas fa-redo"
   content: "This is in a loop"
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu

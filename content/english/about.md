@@ -1,6 +1,6 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+title : " ABOUT ACSA <br>"
+image : "images/competition/scc14.png"
 # button
 button:
   enable : true
@@ -13,13 +13,13 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
+    - name : "2000成立"
       company : "Fiverr.com"
       duration : "2016-2018"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
-    - name : "Graphic Designer"
+    - name : "AI 组成立"
       company : "Fiverr.com"
       duration : "2015-2018"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."

@@ -63,9 +63,9 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 #################### default parameters ################################
 [params]
 favicon = "images/favicon.png"
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
-logo_width = "150px"
+logo_light = "images/school-icon.png"
+logo_dark = "images/logo-corp-green.png"
+logo_width = "110px"
 # Meta data
 description = "This is meta description"
 author = "somrat"
@@ -134,7 +134,7 @@ url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "News"
 pre = "#"
 url = "portfolio"
 weight = 4
@@ -152,7 +152,7 @@ url = "contact"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "Events"
 url = "blog"
 weight = 7
 
