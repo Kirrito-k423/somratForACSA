@@ -845,7 +845,7 @@ input:checked+label span:last-child {
 ----------------------------------*/
 
 .about-me {
-  background: #fff;
+  background: #f9f6ef;
   padding: 125px 0px 70px 0px;
 }
 
@@ -1194,7 +1194,7 @@ ul.experience-chart h4 {
 ----------------------------------*/
 
 .portfolio {
-  background: #fff;
+  background: #f9f6ef;
   padding: 70px 0px;
 }
 
