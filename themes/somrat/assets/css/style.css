@@ -615,6 +615,8 @@ input:checked+label span:last-child {
 
 .menu-normal {
   background: #fff;
+  border-bottom: 1px solid #e6e6e6;
+  box-shadow: 0px 0px 10px 0px #999, 0 3px 3px transparent;
 }
 
 .menu-container-transparent {
