@@ -1461,6 +1461,8 @@ ul.experience-chart h4 {
 
 .single-testimonial img {
   width: 160px;
+  height: 160px;
+  object-fit: cover;
   margin: auto;
   border-radius: 100%;
 }
