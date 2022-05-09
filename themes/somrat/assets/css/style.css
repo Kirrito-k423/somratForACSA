@@ -2255,9 +2255,9 @@ textarea.form-control::-webkit-input-placeholder,
 }
 
 .btn-primary {
-  background: #4d4d4d;
+  background: #b1040e;
   color: #fff;
-  border-color: #4d4d4d;
+  border-color: #b1040e;
 }
 
 .btn-primary:hover,
