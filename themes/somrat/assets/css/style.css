@@ -2265,8 +2265,8 @@ textarea.form-control::-webkit-input-placeholder,
 .btn-primary.active,
 .btn-primary:focus,
 .btn-primary.focus {
-  background: #4d4d4d !important;
-  border-color: #4d4d4d !important;
+  background: rgb(125, 0, 0) !important;
+  border-color: rgb(125, 0, 0) !important;
 }
 
 .btn-outline-primary {
