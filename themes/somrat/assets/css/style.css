@@ -298,6 +298,13 @@ body {
 .introduction {
   font-size: 60px;
   font-weight: 600;
+  font-family: Stanford,Source Serif Pro,Georgia,Times,Times New Roman,serif!important;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  text-shadow: 0 0 30px rgb(0 0 0 / 70%);
+  text-align: center; 
 }
 
 .typist-blink:after {
