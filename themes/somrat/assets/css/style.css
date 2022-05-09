@@ -1441,6 +1441,11 @@ ul.experience-chart h4 {
   background: #6f6f6f;
 }
 
+.single-testimonial {
+  display: flex;
+  justify-content: flex-start;
+}
+
 .single-testimonial img {
   width: 160px;
   margin: auto;

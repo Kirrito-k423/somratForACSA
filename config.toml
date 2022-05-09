@@ -123,6 +123,11 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
+name = "People"
+url = "people"
+weight = 2.5
+
+[[Languages.en.menu.main]]
 name = "Service"
 pre = "#"
 url = "service"
